@@ -7,7 +7,7 @@
  <div>
  <a href="https://drive.google.com/file/d/1K3GQ52cnoZyuf_Yd-9kJmoQPv4CB6LCX/view" target="_blank">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devbastos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
- <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbastos&layout=compact&langs_count=7&theme=dark"></a>-->
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbastos&layout=compact&langs_count=7&theme=dark"></a>
 </div>
  <br>
 <div style="display: inline_block"><br>
