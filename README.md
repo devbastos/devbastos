@@ -2,6 +2,9 @@
 
 #####  Cursando Engenharia de Software
 ##### Curso complementar de Engenharia Front-end
+<p>Estou cursando Engenharia de Software e fazendo curso complementar de engenheiro front-end.<br>
+Tenho alguns pequenos projetos front-end e estou em evolução, invés de tentar aprender varias linguagens e tentar atender todo tipo de vaga no mercado escolhi uma área. com o objetivo de adquirir conhecimento, ter experiência e conseguir minha primeira vaga.<br>
+Acima de tudo estou a disposição para aprender e atender a necessidade da sua empresa.</p>
 
 <br>
  <div>
