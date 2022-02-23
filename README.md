@@ -6,6 +6,9 @@
 Tenho alguns pequenos projetos front-end e estou em evolução, invés de tentar aprender varias linguagens e tentar atender todo tipo de vaga no mercado escolhi uma área. com o objetivo de adquirir conhecimento, ter experiência e conseguir minha primeira vaga.<br>
 Acima de tudo estou a disposição para aprender e atender a necessidade da sua empresa.</p>
 
+ <a href="https://portifolio-nine-rouge.vercel.app/" target="_blank">Portífolio</a>
+
+
 <br>
  <div>
  <a href="https://drive.google.com/file/d/1K3GQ52cnoZyuf_Yd-9kJmoQPv4CB6LCX/view" target="_blank">
