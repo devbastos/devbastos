@@ -21,7 +21,7 @@ Acima de tudo estou a disposição para aprender e atender a necessidade da sua 
   <img align="center" alt="Gael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Gael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 </div>
   
   ##
