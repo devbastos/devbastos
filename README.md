@@ -23,9 +23,8 @@ Acima de tudo estou a disposição para aprender e atender a necessidade da sua 
   <img align="center" alt="Gael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Gael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+  <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uipath/uipath-original.svg">
 </div>
   
   ##
