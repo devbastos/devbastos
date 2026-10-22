@@ -1,38 +1,89 @@
-## olá! eu sou o Gabriel Bastos
+# Gabriel Bastos
 
-#####  Cursando Engenharia de Software
-##### Curso complementar de Engenharia Front-end
-<p>Estou cursando Engenharia de Software e fazendo curso complementar de engenheiro front-end.<br>
-Tenho alguns pequenos projetos front-end e estou em evolução, invés de tentar aprender varias linguagens e tentar atender todo tipo de vaga no mercado escolhi uma área. com o objetivo de adquirir conhecimento, ter experiência e conseguir minha primeira vaga.<br>
-Acima de tudo estou a disposição para aprender e atender a necessidade da sua empresa.</p>
+### Senior Backend Developer | .NET | C# | Distributed Systems | AWS
 
- <a href="https://www.devbastos.com.br" target="_blank">Portífolio</a>
+Desenvolvedor de software com experiência na construção, manutenção e evolução de aplicações corporativas, com foco no ecossistema **.NET, arquitetura de software, integrações e sistemas distribuídos**.
 
+Atualmente atuo como **Senior Backend Developer na Crefisa**, trabalhando com soluções para o setor financeiro, integrações entre sistemas, processamento de dados e regras de negócio complexas.
 
-<br>
- <div>
- <a href="https://drive.google.com/file/d/1K3GQ52cnoZyuf_Yd-9kJmoQPv4CB6LCX/view" target="_blank">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devbastos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbastos&layout=compact&langs_count=7&theme=dark"></a>
-</div>
- <br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Gael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Gael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Gael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/gabriel.bast0s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>  
-  <a href="https://www.linkedin.com/in/gabriel-bastos-barbosa-2315b71b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
- 
-<!--   ![Snake animation](https://github.com/devbastos/devbastos/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div>
+Minha trajetória profissional começou na área de Logística, o que contribuiu para desenvolver uma visão orientada a processos, eficiência operacional e resolução de problemas reais de negócio.
+
+Tenho interesse especial em arquitetura de software, performance, escalabilidade, qualidade de código e evolução de sistemas legados.
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+**Backend**
+- C# | .NET | ASP.NET Core | REST APIs
+- Entity Framework Core | Dapper
+- SQL Server | Oracle | PL/SQL
+- Clean Architecture | SOLID | Design Patterns
+
+**Arquitetura e integração**
+- Microservices | Distributed Systems
+- Event-Driven Architecture
+- Kafka | AWS SNS | AWS SQS
+- Idempotência | Retry | Circuit Breaker
+- Domain Events | Outbox Pattern
+
+**Cloud & DevOps**
+- AWS (S3, SNS, SQS)
+- Docker | CI/CD
+- Git | GitHub
+- Observabilidade | Grafana
+
+**Frontend**
+- Angular | TypeScript | JavaScript
+- HTML | CSS | Bootstrap
+
+**Qualidade**
+- xUnit | Unit Testing
+- Dependency Injection
+- Code Review | Refactoring
+- Clean Code
+
+---
+
+### 💼 Experiência profissional
+
+**Senior Backend Developer — Crefisa**
+
+Atuação no desenvolvimento e evolução de aplicações backend para o setor financeiro, envolvendo:
+
+- Desenvolvimento de APIs e serviços utilizando C# e .NET.
+- Integração entre sistemas e processamento assíncrono.
+- Implementação e manutenção de regras de negócio complexas.
+- Desenvolvimento de soluções com bancos de dados relacionais.
+- Refatoração e evolução de sistemas existentes.
+- Testes automatizados e práticas de qualidade de software.
+- Investigação de problemas de performance e confiabilidade.
+
+---
+
+### 🎯 Interesses técnicos
+
+Tenho buscado aprofundar meus conhecimentos em:
+
+- Arquitetura de sistemas distribuídos e escaláveis.
+- Domain-Driven Design (DDD).
+- Event-Driven Architecture e mensageria.
+- Resiliência e consistência de dados.
+- Observabilidade e monitoramento.
+- Engenharia de software e decisões arquiteturais.
+
+Acredito que desenvolver software vai além de escrever código: envolve compreender o problema, avaliar alternativas técnicas e construir soluções sustentáveis.
+
+---
+
+### 📌 Projetos
+
+Este espaço está em evolução. Estou organizando projetos que demonstram aplicações práticas de arquitetura, integração entre serviços, mensageria, testes automatizados e boas práticas de engenharia de software.
+
+---
+
+### 📫 Contato
+
+- **LinkedIn:** [Gabriel Bastos Barbosa](https://www.linkedin.com/in/gabriel-bastos-barbosa-2315b71b9/)
+- **GitHub:** [@devbastos](https://github.com/devbastos)
+- **Portfólio:** [devbastos.com.br](https://www.devbastos.com.br)
